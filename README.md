@@ -4,3 +4,5 @@ This Repository is aimed at helping developers/programmers with better reasoning
 The Repository also helps teams better understand each others Commit messages and reasons behind it . 
 
 *THIS REPOP ACTS AS A DICTINARY FOR ALL REASONS AND OUTSIDE DEVELOPERS ARE MOST WELCOME TO ADD THEIR REASONS WILL A PULL REQUEST*
+
+
